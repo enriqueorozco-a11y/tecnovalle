@@ -1,0 +1,12 @@
+=== TECNOMOVIL DATA | PROCESAMIENTO FUNCIONAL ===
+Registros procesados: 12
+
+1. Afluencia por estaci?n: {Central=2, Sur=2, Universidad=4}
+2. Flujo por hora: {7=4, 8=4, 9=4}
+3. Rutas m?s utilizadas: [R2=5, R1=4, R3=3]
+4. Patrones por usuario: {U01=[Central, Norte, Universidad], U02=[Central, Norte, Universidad], U03=[Sur, Centro, Sur], U04=[Universidad, Centro], U05=[Universidad]}
+5. Tiempo promedio entre estaciones: 27.857142857142858 minutos
+6. Rutas cr?ticas (umbral 4): {R1=NORMAL, R2=CRITICA, R3=NORMAL}
+
+Demostraci?n lambda + funci?n de orden superior: {Central=2, Sur=2, Universidad=4}
+Lista original sin modificar: 12 registros
